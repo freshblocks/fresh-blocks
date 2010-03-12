@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Web Development</key>
+	<array>
+		<string>We build custom web and mobile web applications to meet your business needs. Applications do not have to be created from the ground up. We also create plug-ins for various Content Management Systems and other publishing systems. To do all this we utilize an agile development process and our experience with various languages, frameworks, and other systems.</string>
+		<string>terminal</string>
+	</array>
+	<key>Web Design</key>
+	<array>
+		<string>We believe that websites should be beautiful, elegant, and reflect your business. But most importantly, we believe that they must be accessible, user-friendly, and standards-compliant.</string>
+		<string>tablet</string>
+	</array>
+	<key>iPhone Apps</key>
+	<array>
+		<string>The Apple iPhone is a revolutionary device. Here at Fresh Blocks, we believe it can change a business and even create one. We build custom iPhone apps to meet your needs. We develop using Apple’s finalized 3.1 SDK.</string>
+		<string>iphone</string>
+	</array>
+	<key>Android Apps</key>
+	<array>
+		<string>We believe that with the release of Android 2.0 and the newly released HTC Droid for Verizon Wireless that Google Android will now become more widely spread to the point that it becomes more suitable for our clients.</string>
+		<string>android</string>
+	</array>
+</dict>
+</plist>
